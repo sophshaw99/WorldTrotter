@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WorldTrotter
 //
-//  Created by Sophia Shaw on 9/1/17.
+//  Created by Sophia Shaw on 8/23/17.
 //  Copyright © 2017 Soph Shaw. All rights reserved.
 //
 
