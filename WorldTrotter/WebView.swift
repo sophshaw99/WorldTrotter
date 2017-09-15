@@ -5,8 +5,6 @@
 //  Created by Sophia Shaw on 9/14/17.
 //  Copyright © 2017 Soph Shaw. All rights reserved.
 //
-
-
 import UIKit
 import WebKit
 
